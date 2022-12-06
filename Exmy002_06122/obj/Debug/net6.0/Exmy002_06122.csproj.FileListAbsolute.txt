@@ -1,0 +1,15 @@
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\bin\Debug\net6.0\Exmy002_06122.exe
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\bin\Debug\net6.0\Exmy002_06122.deps.json
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\bin\Debug\net6.0\Exmy002_06122.runtimeconfig.json
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\bin\Debug\net6.0\Exmy002_06122.dll
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\bin\Debug\net6.0\Exmy002_06122.pdb
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.csproj.AssemblyReference.cache
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.AssemblyInfoInputs.cache
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.AssemblyInfo.cs
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.csproj.CoreCompileInputs.cache
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.dll
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\refint\Exmy002_06122.dll
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.pdb
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\Exmy002_06122.genruntimeconfig.cache
+C:\Users\Agent\Desktop\ExMy\Exmy002_06122\obj\Debug\net6.0\ref\Exmy002_06122.dll
