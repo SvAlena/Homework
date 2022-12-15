@@ -95,4 +95,4 @@ while (i <= N);
 }
 System.Console.WriteLine();
 
-
+домашнее задание
