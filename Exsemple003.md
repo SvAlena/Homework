@@ -108,4 +108,5 @@ git init
 
 git init <project directory>
 
+
 Перейдите на страницу git init, чтобы получить подробные сведения о команде git init.
